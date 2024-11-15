@@ -62,5 +62,5 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 For any questions, suggestions, or feedback, feel free to reach out:
 
-📧 Email: durgadevi12302003@gmail.com
-🐙 GitHub: YourGitHubUsername
+📧 **Email: durgadevi12302003@gmail.com**
+🐙 **GitHub: https://github.com/Durgadevi12302003**
